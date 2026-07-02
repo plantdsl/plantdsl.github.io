@@ -1,0 +1,9 @@
+site_name: PlantDSL
+site_description: PlantDSL website
+site_url: https://plantdsl.github.io
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md

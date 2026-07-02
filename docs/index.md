@@ -1,3 +1,3 @@
 # PlantDSL
 
-Welcome to the PlantDSL website.  
+Domain-Specific Diagrams as Code
